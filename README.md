@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=MrRighter&color=5ac171&style=for-the-badge)
 
 ## My achievements ⭐
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRighter&theme=dark&hide=prs,issues&rank_icon=github&border_color=151515&include_all_commits=true&custom_title=Stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRighter&theme=dark&hide=prs,issues&border_color=151515&rank_icon=github&include_all_commits=true&custom_title=Stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrRighter&theme=dark)
 
 ### And a little bit of programming training 💻
