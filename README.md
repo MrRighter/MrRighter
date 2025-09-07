@@ -5,7 +5,7 @@
 
 ## My achievements ⭐
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrRighter&theme=vision_friendly_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=MrRighter&theme=chartreuse_dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=200&card_height=200&hide_current_streak=true&hide_longest_streak=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MrRighter&theme=chartreuse_dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=140&card_height=200&hide_current_streak=true&hide_longest_streak=true)
 
 ## My tools and skills 🛠️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
