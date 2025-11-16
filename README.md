@@ -1,5 +1,6 @@
-<h1 align="center">H3ll0, W0r1d! I'm Kirill
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/de3ab0a0-9e2b-4598-8820-42a1dc6b6124" alt="H3ll0 W0r1d">
+</div>
 
 ![profile views](https://komarev.com/ghpvc/?username=MrRighter&color=0764d6&style=for-the-badge)
 
