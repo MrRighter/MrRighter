@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/de3ab0a0-9e2b-4598-8820-42a1dc6b6124" alt="H3ll0 W0r1d">
+  <img src="https://github.com/user-attachments/assets/d49c9fee-1527-4a65-9a78-b2cb449aa002" alt="H3ll0 W0r1d">
 </div>
 
 ![profile views](https://komarev.com/ghpvc/?username=MrRighter&color=0764d6&style=for-the-badge)
